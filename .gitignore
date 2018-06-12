@@ -1,0 +1,9 @@
+gitignore-*
+
+# data file
+*.json
+*.csv
+
+
+# swap 
+*.a
